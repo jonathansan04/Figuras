@@ -34,5 +34,5 @@ public class Punto {
         distancia = (int) Math.sqrt(Math.pow((this.x - p.x), 2) + Math.pow((this.y - p.y), 2));
         return distancia;
     }
-
+  
 }
